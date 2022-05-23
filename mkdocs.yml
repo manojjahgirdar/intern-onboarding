@@ -71,3 +71,7 @@ extra:
 
 nav:
     - Home: index.md
+    - Node JS: nodejs.md
+    - React JS: reactjs.md
+    - AI Skills: aiskills.md
+    - Data Engineering: dataengineering.md
