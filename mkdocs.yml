@@ -1,9 +1,9 @@
-site_name: Documentation Template
+site_name: Learning Materials consolidated
 site_description: >-
-    Documentation is an integral part of any project. This template is a good starting point for your documentation.
-site_url: https://ibm.github.io/mkdocs-oc-pipeline/docs
-site_author: Enter Author Name
-repo_url: https://github.com/IBM/mkdocs-oc-pipeline
+    learning paths for onboarding interns on following topic- Node.js + React JS, AI related skills & Data Engineering skills
+site_url: https://manojjahgirdar.github.io/intern-onboarding/
+site_author: Manoj Jahgirdar
+repo_url: https://github.com/manojjahgirdar/intern-onboarding
 docs_dir: docs
 site_dir: site
 edit_uri: edit/master/docs
